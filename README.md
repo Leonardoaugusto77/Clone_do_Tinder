@@ -1,2 +1,7 @@
-# Clone_do_Tinder
- Clone do Tinder com HTML e CSS o projeto foi reitirado do Canal DicasParaDev
+<h1>Clone do Tinder 💓</h1>
+
+<br>
+
+- Projeto com o foco em Práticar HTML e CSS 💻
+- Nesse projeto foi utilizado FlexBox para a responsividade do Projeto
+
